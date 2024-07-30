@@ -1,6 +1,10 @@
 # Code Library
+https://solution-challenge-39387.web.app/
 
-How the project will benefit others?
+An website from where students can learn **DSA** and different programming languages like **C, C++, Python, JAVA** etc.
+
+## How the project will benefit others?
+
 Through this project we tried to create an envioronment to learn programming from scratch with no prior experience to coding.
 
 ## Advantages of Code Library
